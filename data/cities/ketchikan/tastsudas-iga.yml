@@ -1,6 +1,5 @@
 id: 366336583
 type: way
-shop: supermarket
 latitude: 55.3390751
 longitude: -131.6362903
 postcode: "99901"
@@ -8,5 +7,5 @@ city: Ketchikan
 street: "Stedman Street"
 housenumber: 633
 phone: ""
-opening_hours: "Permanently Closed"
+opening_hours: "closed Permanently Closed"
 website: ""
