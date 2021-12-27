@@ -1,6 +1,6 @@
 ---
 title: Sitka
 url: /sitka/
-latitude: 57.052497300000006
-longitude: -135.337612
+latitude: 57.05
+longitude: -135.337
 ---

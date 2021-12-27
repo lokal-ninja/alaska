@@ -1,6 +1,6 @@
 ---
 title: Fairbanks
 url: /fairbanks/
-latitude: 64.837845
-longitude: -147.716675
+latitude: 64.885
+longitude: -147.63
 ---

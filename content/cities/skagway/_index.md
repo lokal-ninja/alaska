@@ -1,6 +1,6 @@
 ---
 title: Skagway
 url: /skagway/
-latitude: 59.6226362
-longitude: -135.4094368
+latitude: 59.456
+longitude: -135.316
 ---

@@ -1,6 +1,6 @@
 ---
 title: Salcha
 url: /salcha/
-latitude: 
-longitude: 
+latitude: 64.571
+longitude: -147.044
 ---

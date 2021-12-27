@@ -1,6 +1,6 @@
 ---
 title: Eielson AFB
 url: /eielson-afb/
-latitude: 
-longitude: 
+latitude: 64.667
+longitude: -147.069
 ---

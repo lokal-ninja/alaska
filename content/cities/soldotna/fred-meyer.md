@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
 url: /soldotna/fred-meyer/
-shop: supermarket
+shop: Supermarkt
 ---

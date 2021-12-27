@@ -1,5 +1,5 @@
 ---
 title: "RadioShack"
 url: /sitka/radioshack/
-shop: electronics
+shop: Elektronik
 ---

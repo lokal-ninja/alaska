@@ -1,6 +1,6 @@
 ---
 title: Soldotna
 url: /soldotna/
-latitude: 60.48472280000001
-longitude: -151.065349
+latitude: 60.504
+longitude: -150.98
 ---

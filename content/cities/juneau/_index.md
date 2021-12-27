@@ -1,6 +1,6 @@
 ---
 title: Juneau
 url: /juneau/
-latitude: 58.3019496
-longitude: -134.419734
+latitude: 58.371
+longitude: -134.588
 ---

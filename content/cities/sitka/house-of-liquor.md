@@ -1,5 +1,5 @@
 ---
 title: "House of Liquor"
 url: /sitka/house-of-liquor/
-shop: alcohol
+shop: Spirituosen
 ---

@@ -1,6 +1,6 @@
 ---
 title: Anchorge
 url: /anchorge/
-latitude: 
-longitude: 
+latitude: 61.139
+longitude: -149.915
 ---

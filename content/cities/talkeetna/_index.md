@@ -1,6 +1,6 @@
 ---
 title: Talkeetna
 url: /talkeetna/
-latitude: 62.3238312
-longitude: -150.108881
+latitude: 62.323
+longitude: -150.112
 ---
