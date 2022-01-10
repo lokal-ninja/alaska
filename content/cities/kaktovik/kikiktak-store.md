@@ -1,5 +1,5 @@
 ---
 title: "Kikiktak Store"
 url: /kaktovik/kikiktak-store/
-shop: Lebensmittel
+shop: convenience
 ---

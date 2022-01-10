@@ -1,5 +1,5 @@
 ---
 title: "Sea Monster Video"
 url: /petersburg/sea-monster-video/
-shop: Videothek
+shop: video
 ---

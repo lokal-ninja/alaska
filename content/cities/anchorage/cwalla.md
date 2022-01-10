@@ -1,5 +1,5 @@
 ---
 title: "CWallA"
 url: /anchorage/cwalla/
-shop: Allgemein
+shop: shop
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Continental Mazda"
 url: /anchorage/continental-mazda/
-shop: Autohaus
+shop: car
 ---

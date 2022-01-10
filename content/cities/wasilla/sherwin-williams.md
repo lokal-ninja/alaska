@@ -1,5 +1,5 @@
 ---
 title: "Sherwin-Williams"
 url: /wasilla/sherwin-williams/
-shop: Farben
+shop: paint
 ---

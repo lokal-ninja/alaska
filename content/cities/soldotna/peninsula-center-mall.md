@@ -1,5 +1,5 @@
 ---
 title: "Peninsula Center Mall"
 url: /soldotna/peninsula-center-mall/
-shop: Einkaufszentrum
+shop: mall
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Michaels"
 url: /wasilla/michaels/
-shop: Basteln
+shop: craft
 ---

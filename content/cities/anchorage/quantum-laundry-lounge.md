@@ -1,5 +1,5 @@
 ---
 title: "Quantum Laundry Lounge"
 url: /anchorage/quantum-laundry-lounge/
-shop: Wäscherei
+shop: laundry
 ---

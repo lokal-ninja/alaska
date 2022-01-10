@@ -1,5 +1,5 @@
 ---
 title: "A Special Touch"
 url: /anchorage/a-special-touch/
-shop: Blumen
+shop: florist
 ---

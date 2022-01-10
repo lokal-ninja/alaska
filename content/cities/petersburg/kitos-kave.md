@@ -1,5 +1,5 @@
 ---
 title: "Kito's Kave"
 url: /petersburg/kitos-kave/
-shop: Spirituosen
+shop: alcohol
 ---

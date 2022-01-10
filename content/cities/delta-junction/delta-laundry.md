@@ -1,5 +1,5 @@
 ---
 title: "Delta Laundry"
 url: /delta-junction/delta-laundry/
-shop: Wäscherei
+shop: laundry
 ---

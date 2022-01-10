@@ -1,5 +1,5 @@
 ---
 title: "Mountain Miss"
 url: /sitka/mountain-miss/
-shop: Kleidung
+shop: clothes
 ---

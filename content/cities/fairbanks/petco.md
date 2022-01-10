@@ -1,5 +1,5 @@
 ---
 title: "Petco"
 url: /fairbanks/petco/
-shop: Tiere
+shop: pet
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sea Mart Quality Foods"
 url: /sitka/sea-mart-quality-foods/
-shop: Supermarkt
+shop: supermarket
 ---

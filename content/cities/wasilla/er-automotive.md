@@ -1,5 +1,5 @@
 ---
 title: "ER Automotive"
 url: /wasilla/er-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

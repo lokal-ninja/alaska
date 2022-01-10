@@ -1,5 +1,5 @@
 ---
 title: "GCI Store"
 url: /anchorage/gci-store/
-shop: Handy
+shop: mobile phone
 ---

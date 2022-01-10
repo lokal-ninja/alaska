@@ -1,5 +1,5 @@
 ---
 title: "Oomingmak"
 url: /anchorage/oomingmak/
-shop: Kleidung
+shop: clothes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Continental Acura"
 url: /anchorage/continental-acura/
-shop: Autohaus
+shop: car
 ---

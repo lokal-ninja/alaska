@@ -1,5 +1,5 @@
 ---
 title: "Stuaqpak"
 url: /utqiagvik/stuaqpak/
-shop: Supermarkt
+shop: supermarket
 ---

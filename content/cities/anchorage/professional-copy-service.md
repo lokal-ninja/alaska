@@ -1,5 +1,5 @@
 ---
 title: "Professional Copy Service"
 url: /anchorage/professional-copy-service/
-shop: Kopieren
+shop: copyshop
 ---

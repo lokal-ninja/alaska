@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /wasilla/target/
-shop: Warenhaus
+shop: department store
 ---
