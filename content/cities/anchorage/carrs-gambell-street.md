@@ -1,5 +1,5 @@
 ---
 title: "Carrs"
-url: /anchorage/carrs-2/
+url: /anchorage/carrs/
 shop: supermarket
 ---

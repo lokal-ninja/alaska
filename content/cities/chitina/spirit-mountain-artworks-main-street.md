@@ -1,5 +1,5 @@
 ---
 title: "Spirit Mountain Artworks"
-url: /chitina/spirit-mountain-artworks-2/
+url: /chitina/spirit-mountain-artworks/
 shop: art
 ---
