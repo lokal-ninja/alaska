@@ -1,6 +1,6 @@
 ---
 title: City Of Palmer
 url: /city-of-palmer/
-latitude: 61.597
-longitude: -149.116
+latitude: 61.607
+longitude: -149.115
 ---
