@@ -1,6 +1,6 @@
 ---
 title: North Pole
 url: /north-pole/
-latitude: 64.755
-longitude: -147.343
+latitude: 64.817
+longitude: -147.568
 ---
