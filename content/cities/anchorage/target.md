@@ -1,5 +1,5 @@
 ---
 title: "Target"
 url: /anchorage/target/
-shop: supermarket
+shop: Supermarkt
 ---

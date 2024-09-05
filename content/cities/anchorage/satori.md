@@ -1,5 +1,5 @@
 ---
 title: "Satori"
 url: /anchorage/satori/
-shop: cannabis
+shop: Hanf
 ---

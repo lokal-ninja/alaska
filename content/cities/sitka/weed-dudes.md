@@ -1,5 +1,5 @@
 ---
 title: "Weed Dudes"
 url: /sitka/weed-dudes/
-shop: cannabis
+shop: Hanf
 ---

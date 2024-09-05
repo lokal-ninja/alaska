@@ -1,5 +1,5 @@
 ---
 title: "Nomar"
 url: /homer/nomar/
-shop: clothes
+shop: Kleidung
 ---

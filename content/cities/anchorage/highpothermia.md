@@ -1,5 +1,5 @@
 ---
 title: "Highpothermia"
 url: /anchorage/highpothermia/
-shop: cannabis
+shop: Hanf
 ---

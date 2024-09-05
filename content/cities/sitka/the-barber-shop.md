@@ -1,5 +1,5 @@
 ---
 title: "The Barber Shop"
 url: /sitka/the-barber-shop/
-shop: hairdresser
+shop: Friseur
 ---

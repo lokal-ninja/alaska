@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /homer/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

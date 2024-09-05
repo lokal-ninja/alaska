@@ -1,5 +1,5 @@
 ---
 title: "Big Rays"
 url: /kodiak/big-rays/
-shop: sports
+shop: Sport
 ---

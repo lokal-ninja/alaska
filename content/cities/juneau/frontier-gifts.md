@@ -1,5 +1,5 @@
 ---
 title: "Frontier Gifts"
 url: /juneau/frontier-gifts/
-shop: gift
+shop: Andenken
 ---

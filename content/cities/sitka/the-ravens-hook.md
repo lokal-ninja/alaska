@@ -1,5 +1,5 @@
 ---
 title: "The Raven's Hook"
 url: /sitka/the-ravens-hook/
-shop: craft
+shop: Basteln
 ---

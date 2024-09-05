@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /anchorage/holiday/
-shop: convenience
+shop: Lebensmittel
 ---

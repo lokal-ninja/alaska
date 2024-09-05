@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /kenai/safeway/
-shop: supermarket
+shop: Supermarkt
 ---

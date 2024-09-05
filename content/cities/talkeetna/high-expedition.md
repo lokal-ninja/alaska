@@ -1,5 +1,5 @@
 ---
 title: "High Expedition"
 url: /talkeetna/high-expedition/
-shop: cannabis
+shop: Hanf
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PetSmart"
 url: /anchorage/petsmart/
-shop: pet
+shop: Tiere
 ---

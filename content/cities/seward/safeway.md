@@ -1,5 +1,5 @@
 ---
 title: "Safeway"
 url: /seward/safeway/
-shop: supermarket
+shop: Supermarkt
 ---
