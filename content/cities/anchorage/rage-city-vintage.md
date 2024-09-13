@@ -1,5 +1,5 @@
 ---
 title: "Rage City Vintage"
 url: /anchorage/rage-city-vintage/
-shop: Kleidung
+shop: clothes
 ---

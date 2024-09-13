@@ -1,5 +1,5 @@
 ---
 title: "Scrub-A-Mutt"
 url: /city-of-palmer/scrub-a-mutt/
-shop: Tiersalon
+shop: pet grooming
 ---

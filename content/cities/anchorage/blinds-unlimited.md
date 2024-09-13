@@ -1,5 +1,5 @@
 ---
 title: "Blinds Unlimited"
 url: /anchorage/blinds-unlimited/
-shop: Jalousien
+shop: window blind
 ---

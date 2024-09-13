@@ -1,5 +1,5 @@
 ---
 title: "Metal Creek Auto Body"
 url: /palmer/metal-creek-auto-body/
-shop: Autowerkstatt
+shop: car repair
 ---

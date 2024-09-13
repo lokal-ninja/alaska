@@ -1,5 +1,5 @@
 ---
 title: "Alaska Chip Company"
 url: /anchorage/alaska-chip-company/
-shop: Großhandel
+shop: wholesale
 ---

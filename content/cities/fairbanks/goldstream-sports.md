@@ -1,5 +1,5 @@
 ---
 title: "Goldstream Sports"
 url: /fairbanks/goldstream-sports/
-shop: Outdoor
+shop: outdoor
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Best Storage Midtown"
 url: /anchorage/best-storage-midtown/
-shop: Mieten
+shop: storage rental
 ---

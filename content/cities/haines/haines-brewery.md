@@ -1,5 +1,5 @@
 ---
 title: "Haines Brewery"
 url: /haines/haines-brewery/
-shop: Getränke
+shop: beverages
 ---

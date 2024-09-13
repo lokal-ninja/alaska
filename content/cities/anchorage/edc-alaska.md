@@ -1,5 +1,5 @@
 ---
 title: "EDC Alaska"
 url: /anchorage/edc-alaska/
-shop: Waffen
+shop: weapons
 ---

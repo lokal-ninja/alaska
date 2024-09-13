@@ -1,5 +1,5 @@
 ---
 title: "Pakalolo Supply Company"
 url: /anchorage/pakalolo-supply-company/
-shop: Hanf
+shop: cannabis
 ---

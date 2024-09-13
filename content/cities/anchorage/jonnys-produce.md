@@ -1,5 +1,5 @@
 ---
 title: "Jonny's Produce"
 url: /anchorage/jonnys-produce/
-shop: Hofladen
+shop: farm
 ---

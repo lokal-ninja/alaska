@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /wasilla/midas/
-shop: Autowerkstatt
+shop: car repair
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carquest Autoparts"
 url: /delta-junction/carquest-autoparts/
-shop: Autoteile
+shop: car parts
 ---

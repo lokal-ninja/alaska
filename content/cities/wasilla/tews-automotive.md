@@ -1,5 +1,5 @@
 ---
 title: "Tews Automotive"
 url: /wasilla/tews-automotive/
-shop: Autowerkstatt
+shop: car repair
 ---

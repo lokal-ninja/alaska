@@ -1,5 +1,5 @@
 ---
 title: "Rise and Grind"
 url: /sitka/rise-and-grind/
-shop: Kaffee
+shop: coffee
 ---

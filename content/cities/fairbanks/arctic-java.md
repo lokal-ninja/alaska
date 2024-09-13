@@ -1,5 +1,5 @@
 ---
 title: "Arctic Java"
 url: /fairbanks/arctic-java/
-shop: Kaffee
+shop: coffee
 ---

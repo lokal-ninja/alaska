@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /wasilla/midas-north-crusey-street/
-shop: Autowerkstatt
+shop: car repair
 ---

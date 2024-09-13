@@ -1,5 +1,5 @@
 ---
 title: "IGA"
 url: /kenai/iga/
-shop: Supermarkt
+shop: supermarket
 ---

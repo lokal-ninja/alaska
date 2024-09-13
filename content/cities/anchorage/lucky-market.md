@@ -1,5 +1,5 @@
 ---
 title: "Lucky Market"
 url: /anchorage/lucky-market/
-shop: Supermarkt
+shop: supermarket
 ---

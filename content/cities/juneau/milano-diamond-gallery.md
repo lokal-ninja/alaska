@@ -1,5 +1,5 @@
 ---
 title: "Milano Diamond Gallery"
 url: /juneau/milano-diamond-gallery/
-shop: Schmuck
+shop: jewelry
 ---

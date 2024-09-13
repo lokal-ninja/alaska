@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
 url: /wasilla/fred-meyer/
-shop: Supermarkt
+shop: supermarket
 ---

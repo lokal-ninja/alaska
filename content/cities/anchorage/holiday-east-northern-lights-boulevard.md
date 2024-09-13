@@ -1,5 +1,5 @@
 ---
 title: "Holiday"
 url: /anchorage/holiday-east-northern-lights-boulevard/
-shop: Lebensmittel
+shop: convenience
 ---
