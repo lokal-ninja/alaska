@@ -1,11 +1,11 @@
 id: 554605835
-type: way
+type: node
 latitude: 61.21006
 longitude: -149.73382
 postcode: "99504"
 city: Anchorage
-street: "Muldoon Road"
-housenumber: 1254
-phone: "+1-907-265-5400"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su closed"
-website: "https://www.gci.com"
+street: Muldoon Road
+housenumber: "1254"
+phone: +1-907-265-5400
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00; Su closed
+website: https://www.gci.com

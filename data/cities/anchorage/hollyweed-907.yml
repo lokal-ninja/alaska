@@ -1,11 +1,11 @@
 id: 496055197
-type: way
+type: node
 latitude: 61.14164
 longitude: -149.83633
 postcode: ""
 city: Anchorage
-street: "East 88th Avenue"
-housenumber: 2429
+street: East 88th Avenue
+housenumber: "2429"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 772511597
-type: way
+type: node
 latitude: 61.1999
 longitude: -149.86996
 postcode: "99503"
 city: Anchorage
-street: "Gambell Street"
-housenumber: 2200
-phone: "+1-907-274-7978"
+street: Gambell Street
+housenumber: "2200"
+phone: +1-907-274-7978
 opening_hours: ""
 website: ""

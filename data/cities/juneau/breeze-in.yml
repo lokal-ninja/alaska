@@ -1,11 +1,11 @@
 id: 335998397
-type: way
+type: node
 latitude: 58.36389
 longitude: -134.57716
 postcode: "99801"
 city: Juneau
-street: "Trout Street"
-housenumber: 2200
+street: Trout Street
+housenumber: "2200"
 phone: ""
 opening_hours: ""
 website: ""

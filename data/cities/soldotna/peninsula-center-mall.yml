@@ -1,11 +1,11 @@
 id: 132189650
-type: way
+type: node
 latitude: 60.48439
 longitude: -151.06846
 postcode: "99669"
 city: Soldotna
-street: "Sterling Highway"
-housenumber: 99669
-phone: "1-907-262-6299"
-opening_hours: "Mo-Su 10:00-19:00"
-website: "https://www.peninsulacentermall.com/"
+street: Sterling Highway
+housenumber: "99669"
+phone: 1-907-262-6299
+opening_hours: Mo-Su 10:00-19:00
+website: https://www.peninsulacentermall.com/

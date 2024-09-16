@@ -1,11 +1,11 @@
 id: 206574995
-type: way
+type: node
 latitude: 55.05999
 longitude: -162.32923
 postcode: "99612"
 city: King Cove
-street: "Harbor Road"
-housenumber: 401
+street: Harbor Road
+housenumber: "401"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; Su 12:00-16:00"
+opening_hours: Mo-Sa 09:00-19:00; Su 12:00-16:00
 website: ""

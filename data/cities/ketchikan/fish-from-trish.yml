@@ -1,11 +1,11 @@
 id: 1014198968
-type: way
+type: node
 latitude: 55.41086
 longitude: -131.72277
 postcode: "99901"
 city: Ketchikan
-street: "North Tongass Highway"
-housenumber: 7204
+street: North Tongass Highway
+housenumber: "7204"
 phone: ""
 opening_hours: ""
 website: ""

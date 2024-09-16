@@ -1,11 +1,11 @@
 id: 589076091
-type: way
+type: node
 latitude: 61.19557
 longitude: -149.87538
 postcode: ""
 city: Anchorage
-street: "East Northern Lights Boulevard"
-housenumber: 405
-phone: "+1 (907) 644-2839"
-opening_hours: "Mo-Su 10:00-22:00"
-website: "https://akgreenlight.com/"
+street: East Northern Lights Boulevard
+housenumber: "405"
+phone: +1 (907) 644-2839
+opening_hours: Mo-Su 10:00-22:00
+website: https://akgreenlight.com/

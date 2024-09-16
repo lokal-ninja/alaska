@@ -1,11 +1,11 @@
 id: 255745860
-type: way
+type: node
 latitude: 61.19666
 longitude: -149.9051
-postcode: "99503-2308"
+postcode: 99503-2308
 city: Anchorage
-street: "Spenard Road"
-housenumber: 2633
-phone: "1-907-272-1811"
-opening_hours: "Mo-Sa 09:00-19:00, Sa 11:00-19:00"
-website: "https://www.alaskamountaineering.com/"
+street: Spenard Road
+housenumber: "2633"
+phone: 1-907-272-1811
+opening_hours: Mo-Sa 09:00-19:00, Sa 11:00-19:00
+website: https://www.alaskamountaineering.com/

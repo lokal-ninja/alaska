@@ -1,11 +1,11 @@
 id: 750240106
-type: way
+type: node
 latitude: 59.7259
 longitude: -151.28233
 postcode: "99603"
 city: Homer
-street: "East End Road"
-housenumber: 53775
+street: East End Road
+housenumber: "53775"
 phone: ""
 opening_hours: ""
-website: "https://mcneilcanyonmeats.com/"
+website: https://mcneilcanyonmeats.com/

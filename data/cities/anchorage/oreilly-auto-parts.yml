@@ -1,11 +1,11 @@
 id: 131316405
-type: way
+type: node
 latitude: 61.20678
 longitude: -149.73235
 postcode: "99504"
 city: Anchorage
-street: "Muldoon Road"
-housenumber: 1551
-phone: "+1-907-332-1551"
-opening_hours: "Mo-Sa 07:30-22:00; Su 08:00-20:00"
-website: "https://locations.oreillyauto.com/ak/anchorage/autoparts-3158.html"
+street: Muldoon Road
+housenumber: "1551"
+phone: +1-907-332-1551
+opening_hours: Mo-Sa 07:30-22:00; Su 08:00-20:00
+website: https://locations.oreillyauto.com/ak/anchorage/autoparts-3158.html

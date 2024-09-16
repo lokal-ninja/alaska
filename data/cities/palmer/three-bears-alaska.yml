@@ -1,11 +1,11 @@
 id: 353359419
-type: way
+type: node
 latitude: 61.60069
 longitude: -149.24514
 postcode: "99645"
 city: Palmer
-street: "East Palmer-Wasilla Highway"
-housenumber: 8151
-phone: "+1-907-746-3888"
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-21:00"
-website: "https://threebearsalaska.com/mat-su/"
+street: East Palmer-Wasilla Highway
+housenumber: "8151"
+phone: +1-907-746-3888
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-21:00
+website: https://threebearsalaska.com/mat-su/

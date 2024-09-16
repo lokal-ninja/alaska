@@ -1,11 +1,11 @@
 id: 584939078
-type: way
+type: node
 latitude: 61.10839
 longitude: -149.85953
 postcode: "99515"
 city: Anchorage
-street: "Huffman Road"
-housenumber: 1148
-phone: "1-907-336-0383"
+street: Huffman Road
+housenumber: "1148"
+phone: 1-907-336-0383
 opening_hours: ""
-website: "https://www.chainreactionalaska.com/"
+website: https://www.chainreactionalaska.com/

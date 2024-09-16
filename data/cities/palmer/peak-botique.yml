@@ -1,11 +1,11 @@
 id: 932248812
-type: way
+type: node
 latitude: 61.5988
 longitude: -149.11551
 postcode: "99645"
 city: Palmer
-street: "South Colony Way"
-housenumber: 840
+street: South Colony Way
+housenumber: "840"
 phone: ""
 opening_hours: ""
-website: "https://www.peakboutiquealaska.com/"
+website: https://www.peakboutiquealaska.com/

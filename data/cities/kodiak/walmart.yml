@@ -1,11 +1,11 @@
 id: 209450680
-type: way
+type: node
 latitude: 57.81143
 longitude: -152.36537
 postcode: "99615"
 city: Kodiak
-street: "Mill Bay Road"
-housenumber: 2911
-phone: "+1-907-481-1670"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/2711/kodiak-ak/whats-new"
+street: Mill Bay Road
+housenumber: "2911"
+phone: +1-907-481-1670
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/2711/kodiak-ak/whats-new

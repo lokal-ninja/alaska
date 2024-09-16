@@ -1,11 +1,11 @@
 id: 222217901
-type: way
+type: node
 latitude: 59.6651
 longitude: -151.45274
 postcode: "99603"
 city: Homer
-street: "East End Road"
-housenumber: 3301
-phone: "+1 907-235-5103"
+street: East End Road
+housenumber: "3301"
+phone: +1 907-235-5103
 opening_hours: ""
-website: "https://bayweldboats.com/"
+website: https://bayweldboats.com/

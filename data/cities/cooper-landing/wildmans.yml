@@ -1,11 +1,11 @@
 id: 297217851
-type: way
+type: node
 latitude: 60.49445
 longitude: -149.80198
 postcode: "99572"
 city: Cooper Landing
-street: "Sterling Highway"
-housenumber: 19194
-phone: "+1-907595-1456"
-opening_hours: "Mo-Sa 07:00-19:00"
-website: "https://wildmans.org/"
+street: Sterling Highway
+housenumber: "19194"
+phone: +1-907595-1456
+opening_hours: Mo-Sa 07:00-19:00
+website: https://wildmans.org/

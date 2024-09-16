@@ -1,11 +1,11 @@
 id: 417644007
-type: way
+type: node
 latitude: 64.75493
 longitude: -147.34331
 postcode: "99705"
 city: North Pole
-street: "Saint Nicholas Drive"
-housenumber: 101
+street: Saint Nicholas Drive
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Su 10:00-18:00"
-website: "https://www.santaclaushouse.com/default.asp"
+opening_hours: Mo-Su 10:00-18:00
+website: https://www.santaclaushouse.com/default.asp

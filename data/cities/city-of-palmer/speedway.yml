@@ -1,11 +1,11 @@
 id: 934860208
-type: way
+type: node
 latitude: 61.59374
 longitude: -149.12078
 postcode: ""
 city: City Of Palmer
-street: "West Glacier View Avenue"
-housenumber: 400
+street: West Glacier View Avenue
+housenumber: "400"
 phone: ""
 opening_hours: ""
 website: ""

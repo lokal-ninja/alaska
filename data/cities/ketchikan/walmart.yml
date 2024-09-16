@@ -1,11 +1,11 @@
 id: 170069699
-type: way
+type: node
 latitude: 55.37578
 longitude: -131.71971
 postcode: "99901"
 city: Ketchikan
-street: "Don King Road"
-housenumber: 4230
-phone: "+1-907-247-2156"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.walmart.com/store/2710/ketchikan-ak/whats-new"
+street: Don King Road
+housenumber: "4230"
+phone: +1-907-247-2156
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.walmart.com/store/2710/ketchikan-ak/whats-new

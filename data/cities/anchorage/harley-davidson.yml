@@ -1,11 +1,11 @@
 id: 800812936
-type: way
+type: node
 latitude: 61.18228
 longitude: -149.93276
 postcode: ""
 city: Anchorage
-street: "Spenard Road"
-housenumber: 4334
-phone: "+1 907 248-5300"
+street: Spenard Road
+housenumber: "4334"
+phone: +1 907 248-5300
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 891699507
-type: way
+type: node
 latitude: 61.22312
 longitude: -149.8074
 postcode: "99508"
 city: anchorage
-street: "Bragaw St"
-housenumber: 131
+street: Bragaw St
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

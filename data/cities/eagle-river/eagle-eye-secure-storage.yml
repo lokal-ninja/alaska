@@ -1,11 +1,11 @@
 id: 1112261922
-type: way
+type: node
 latitude: 61.31887
 longitude: -149.58178
 postcode: "99577"
 city: Eagle River
-street: "Mausel Street"
-housenumber: 10880
+street: Mausel Street
+housenumber: "10880"
 phone: ""
 opening_hours: ""
 website: ""

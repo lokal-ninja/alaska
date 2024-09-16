@@ -1,11 +1,11 @@
 id: 1181746093
-type: way
+type: node
 latitude: 61.1277
 longitude: -146.3491
 postcode: "99686"
 city: Valdez
-street: "Kobuk Drive"
-housenumber: 122
-phone: "+1-907-835-2219"
-opening_hours: "Mo-Su 12:00-18:00"
-website: "https://www.valdezartcoop.com/"
+street: Kobuk Drive
+housenumber: "122"
+phone: +1-907-835-2219
+opening_hours: Mo-Su 12:00-18:00
+website: https://www.valdezartcoop.com/

@@ -1,11 +1,11 @@
 id: 131301749
-type: way
+type: node
 latitude: 61.13556
 longitude: -149.92103
 postcode: "99502"
 city: Anchorage
-street: "West Dimond Boulevard"
-housenumber: 2000
-phone: "+1 907-267-6700"
-opening_hours: "Mo-Sa 06:00-23:00"
-website: "https://www.fredmeyer.com/stores/details/701/00071"
+street: West Dimond Boulevard
+housenumber: "2000"
+phone: +1 907-267-6700
+opening_hours: Mo-Sa 06:00-23:00
+website: https://www.fredmeyer.com/stores/details/701/00071

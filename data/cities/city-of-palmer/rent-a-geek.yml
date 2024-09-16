@@ -1,11 +1,11 @@
 id: 953597803
-type: way
+type: node
 latitude: 61.60613
 longitude: -149.11415
 postcode: "99645"
 city: City Of Palmer
-street: "East Arctic Avenue"
-housenumber: 104
+street: East Arctic Avenue
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

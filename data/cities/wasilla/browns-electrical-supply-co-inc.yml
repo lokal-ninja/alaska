@@ -1,11 +1,11 @@
 id: 636412632
-type: way
+type: node
 latitude: 61.58177
 longitude: -149.45166
 postcode: "99654"
 city: Wasilla
-street: "West Parks Highway"
-housenumber: 121
-phone: "(907) 376-6548"
+street: West Parks Highway
+housenumber: "121"
+phone: (907) 376-6548
 opening_hours: ""
-website: "https://www.brownselectric.com/"
+website: https://www.brownselectric.com/

@@ -1,11 +1,11 @@
 id: 487460259
-type: way
+type: node
 latitude: 61.21766
 longitude: -149.8967
 postcode: "99501"
 city: Anchorage
-street: "West 5th Avenue"
-housenumber: 737
+street: West 5th Avenue
+housenumber: "737"
 phone: ""
 opening_hours: ""
 website: ""

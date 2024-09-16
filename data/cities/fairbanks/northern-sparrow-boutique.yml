@@ -1,11 +1,11 @@
 id: 945131380
-type: way
+type: node
 latitude: 64.85972
 longitude: -147.79113
 postcode: "99709"
 city: Fairbanks
-street: "College Road"
-housenumber: 3055
-phone: "+1 907-388-4095"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 10:30-15:00"
-website: "https://shopnorthernsparrow.com/"
+street: College Road
+housenumber: "3055"
+phone: +1 907-388-4095
+opening_hours: Tu-Fr 11:00-18:00; Sa 10:30-15:00
+website: https://shopnorthernsparrow.com/

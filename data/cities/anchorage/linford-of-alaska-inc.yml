@@ -1,11 +1,11 @@
 id: 304595524
-type: way
+type: node
 latitude: 61.22075
 longitude: -149.87845
 postcode: "99502"
 city: Anchorage
-street: "Cordova Street"
-housenumber: 135
-phone: "1-907-272-5050"
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "https://linfordofalaska.com/"
+street: Cordova Street
+housenumber: "135"
+phone: 1-907-272-5050
+opening_hours: Mo-Fr 07:00-16:00
+website: https://linfordofalaska.com/

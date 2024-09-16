@@ -1,11 +1,11 @@
 id: 445816343
-type: way
+type: node
 latitude: 61.5649
 longitude: -149.29671
 postcode: "99645"
 city: Palmer
-street: "East Blue Lupine Drive"
-housenumber: 6275
+street: East Blue Lupine Drive
+housenumber: "6275"
 phone: ""
 opening_hours: ""
 website: ""

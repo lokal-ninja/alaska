@@ -1,11 +1,11 @@
 id: 548640396
-type: way
+type: node
 latitude: 55.47535
 longitude: -133.13518
 postcode: "99921"
 city: Craig
-street: "JS Drive"
-housenumber: 500
+street: JS Drive
+housenumber: "500"
 phone: ""
 opening_hours: ""
 website: ""

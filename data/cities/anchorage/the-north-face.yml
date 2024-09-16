@@ -1,11 +1,11 @@
 id: 255978378
-type: way
+type: node
 latitude: 61.21801
 longitude: -149.88781
 postcode: ""
 city: Anchorage
-street: "West 5th Avenue"
-housenumber: 305
+street: West 5th Avenue
+housenumber: "305"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00, Su 11:00-18:00"
-website: "https://stores.thenorthface.com/ak/anchorage/USA511/"
+opening_hours: Mo-Sa 10:00-21:00, Su 11:00-18:00
+website: https://stores.thenorthface.com/ak/anchorage/USA511/

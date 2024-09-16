@@ -1,11 +1,11 @@
 id: 656038453
-type: way
+type: node
 latitude: 61.19362
 longitude: -149.89882
 postcode: "99503"
 city: Anchorage
-street: "Arctic Blvd"
-housenumber: 2914
+street: Arctic Blvd
+housenumber: "2914"
 phone: ""
 opening_hours: ""
 website: ""

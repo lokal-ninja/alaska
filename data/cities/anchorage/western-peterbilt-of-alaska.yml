@@ -1,11 +1,11 @@
 id: 506305658
-type: way
+type: node
 latitude: 61.22206
 longitude: -149.82908
 postcode: ""
 city: Anchorage
-street: "Commercial Drive"
-housenumber: 2756
-phone: "1-907-276-2020"
+street: Commercial Drive
+housenumber: "2756"
+phone: 1-907-276-2020
 opening_hours: ""
 website: ""

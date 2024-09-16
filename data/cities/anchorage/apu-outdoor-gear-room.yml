@@ -1,11 +1,11 @@
 id: 623673769
-type: way
+type: node
 latitude: 61.19105
 longitude: -149.80329
 postcode: "99508"
 city: Anchorage
-street: "University Drive"
-housenumber: 4400
+street: University Drive
+housenumber: "4400"
 phone: ""
 opening_hours: ""
 website: ""

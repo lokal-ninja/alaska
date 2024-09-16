@@ -1,11 +1,11 @@
 id: 238690241
-type: way
+type: node
 latitude: 57.05068
 longitude: -135.3335
 postcode: "99835"
 city: Sitka
-street: "Lincoln Street"
-housenumber: 342
+street: Lincoln Street
+housenumber: "342"
 phone: ""
 opening_hours: ""
 website: ""

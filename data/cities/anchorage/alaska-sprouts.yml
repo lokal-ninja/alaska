@@ -1,11 +1,11 @@
 id: 1134638574
-type: way
+type: node
 latitude: 61.20752
 longitude: -149.87166
 postcode: "99501"
 city: Anchorage
-street: "East 15th Avenue"
-housenumber: 636
+street: East 15th Avenue
+housenumber: "636"
 phone: ""
 opening_hours: ""
 website: ""

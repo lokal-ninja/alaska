@@ -4,8 +4,8 @@ latitude: 61.10361
 longitude: -149.85866
 postcode: "99515"
 city: Anchorage
-street: "Old Seward Hwy"
-housenumber: 12870
-phone: "907-336-2837"
-opening_hours: "Mo-Fr 10:00-23:50, Sa 12:00-23:50, Su 10:00-23:50"
-website: "https://www.primoak.com/"
+street: Old Seward Hwy
+housenumber: "12870"
+phone: 907-336-2837
+opening_hours: Mo-Fr 10:00-23:50, Sa 12:00-23:50, Su 10:00-23:50
+website: https://www.primoak.com/

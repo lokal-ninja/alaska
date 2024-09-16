@@ -1,11 +1,11 @@
 id: 392022992
-type: way
+type: node
 latitude: 64.85676
 longitude: -147.69662
 postcode: "99701"
 city: Fairbanks
-street: "Merhar Avenue"
-housenumber: 425
+street: Merhar Avenue
+housenumber: "425"
 phone: ""
-opening_hours: "Mo-Sa 6:00-22:00"
-website: "https://www.lowes.com/store/AK-Fairbanks/1985"
+opening_hours: Mo-Sa 6:00-22:00
+website: https://www.lowes.com/store/AK-Fairbanks/1985

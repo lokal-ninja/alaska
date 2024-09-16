@@ -1,11 +1,11 @@
 id: 835909654
-type: way
+type: node
 latitude: 61.59994
 longitude: -149.11482
 postcode: "99645"
 city: Palmer
-street: "South Alaska Street"
-housenumber: 720
+street: South Alaska Street
+housenumber: "720"
 phone: "+19077452665"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.goodbooksbadcoffee.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.goodbooksbadcoffee.com/

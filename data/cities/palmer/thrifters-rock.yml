@@ -1,11 +1,11 @@
 id: 954404519
-type: way
+type: node
 latitude: 61.59995
 longitude: -149.21843
 postcode: "99645"
 city: Palmer
-street: "Frontage Road"
-housenumber: 9201
-phone: "+1-907-745-7625"
+street: Frontage Road
+housenumber: "9201"
+phone: +1-907-745-7625
 opening_hours: ""
 website: ""

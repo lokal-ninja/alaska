@@ -4,8 +4,8 @@ latitude: 61.15966
 longitude: -149.95368
 postcode: "99502"
 city: Anchorage
-street: "Raspberry Road"
-housenumber: 3901
-phone: "1-907-248-6245"
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:30-18:00"
+street: Raspberry Road
+housenumber: "3901"
+phone: 1-907-248-6245
+opening_hours: Mo-Sa 10:00-20:00, Su 11:30-18:00
 website: ""

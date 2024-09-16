@@ -1,11 +1,11 @@
 id: 153316839
-type: way
+type: node
 latitude: 64.85699
 longitude: -147.8072
 postcode: "99709"
 city: Fairbanks
-street: "College Road"
-housenumber: 3480
+street: College Road
+housenumber: "3480"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 221515693
-type: way
+type: node
 latitude: 60.48929
 longitude: -151.04996
 postcode: "99669"
 city: Soldotna
-street: "Sterling Highway"
-housenumber: 43843
-phone: "+1 907-260-2200"
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.fredmeyer.com/stores/details/701/00017"
+street: Sterling Highway
+housenumber: "43843"
+phone: +1 907-260-2200
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.fredmeyer.com/stores/details/701/00017

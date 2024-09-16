@@ -1,11 +1,11 @@
 id: 212672029
-type: way
+type: node
 latitude: 59.64185
 longitude: -151.47581
 postcode: "99603"
 city: Homer
-street: "Kachemak Drive"
-housenumber: 2490
+street: Kachemak Drive
+housenumber: "2490"
 phone: ""
 opening_hours: ""
-website: "https://desperatemarine.com/"
+website: https://desperatemarine.com/

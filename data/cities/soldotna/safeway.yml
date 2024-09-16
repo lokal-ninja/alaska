@@ -1,11 +1,11 @@
 id: 129385605
-type: way
+type: node
 latitude: 60.48361
 longitude: -151.07159
 postcode: "99669"
 city: Soldotna
-street: "Sterling Highway South"
-housenumber: 44428
-phone: "+1 907-714-5400"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://local.safeway.com/safeway/ak/soldotna/44428-sterling-hwy.html"
+street: Sterling Highway South
+housenumber: "44428"
+phone: +1 907-714-5400
+opening_hours: Mo-Su 05:00-01:00
+website: https://local.safeway.com/safeway/ak/soldotna/44428-sterling-hwy.html

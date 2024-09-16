@@ -1,11 +1,11 @@
 id: 601137465
-type: way
+type: node
 latitude: 61.53657
 longitude: -149.58034
 postcode: "99654"
 city: Wasilla
-street: "Knik-Goose Bay Road"
-housenumber: 3950
-phone: "1-907-376-4500"
+street: Knik-Goose Bay Road
+housenumber: "3950"
+phone: 1-907-376-4500
 opening_hours: ""
-website: "https://threebearsalaska.com/kgb-road-wasilla/"
+website: https://threebearsalaska.com/kgb-road-wasilla/

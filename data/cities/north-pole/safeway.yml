@@ -1,11 +1,11 @@
 id: 132169762
-type: way
+type: node
 latitude: 64.75791
 longitude: -147.35528
 postcode: "99705"
 city: North Pole
-street: "North Santa Claus Lane"
-housenumber: 301
-phone: "+1 907-490-2700"
-opening_hours: "05:00-01:00"
-website: "https://local.safeway.com/safeway/ak/north-pole/301-n-santa-claus-ln.html"
+street: North Santa Claus Lane
+housenumber: "301"
+phone: +1 907-490-2700
+opening_hours: 05:00-01:00
+website: https://local.safeway.com/safeway/ak/north-pole/301-n-santa-claus-ln.html

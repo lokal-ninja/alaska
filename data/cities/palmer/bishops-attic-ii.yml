@@ -1,11 +1,11 @@
 id: 932248817
-type: way
+type: node
 latitude: 61.59901
 longitude: -149.11729
 postcode: "99645"
 city: Palmer
-street: "South Bailey Street"
-housenumber: 840
-phone: "+1-907-745-4215"
+street: South Bailey Street
+housenumber: "840"
+phone: +1-907-745-4215
 opening_hours: ""
-website: "https://www.bishopsattic2.com/"
+website: https://www.bishopsattic2.com/

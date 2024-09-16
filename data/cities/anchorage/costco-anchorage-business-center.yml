@@ -1,11 +1,11 @@
 id: 641655758
-type: way
+type: node
 latitude: 61.23004
 longitude: -149.73687
 postcode: "99504"
 city: Anchorage
-street: "North Muldoon Road"
-housenumber: 1074
-phone: "+1-907-416-9780"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-18:00; Su 08:00-16:00"
-website: "https://www.costco.com/warehouse-locations/anchorage-AK-1661.html"
+street: North Muldoon Road
+housenumber: "1074"
+phone: +1-907-416-9780
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-18:00; Su 08:00-16:00
+website: https://www.costco.com/warehouse-locations/anchorage-AK-1661.html

@@ -1,11 +1,11 @@
 id: 390548878
-type: way
+type: node
 latitude: 64.85575
 longitude: -147.70479
 postcode: "99701"
 city: Fairbanks
-street: "Helmericks Avenue"
-housenumber: 377
-phone: "907-457-8555"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.coldspotfeeds.com/"
+street: Helmericks Avenue
+housenumber: "377"
+phone: 907-457-8555
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.coldspotfeeds.com/

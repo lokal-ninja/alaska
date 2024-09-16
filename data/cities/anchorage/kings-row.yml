@@ -1,11 +1,11 @@
 id: 303744664
-type: way
+type: node
 latitude: 61.14526
 longitude: -149.87759
 postcode: "99518"
 city: Anchorage
-street: "East Dimond Boulevard"
-housenumber: 201
+street: East Dimond Boulevard
+housenumber: "201"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 495085402
-type: way
+type: node
 latitude: 61.56994
 longitude: -149.35675
 postcode: "99654"
 city: Wasilla
-street: "East Parks Highway"
-housenumber: 3700
+street: East Parks Highway
+housenumber: "3700"
 phone: ""
 opening_hours: ""
-website: "https://www.wasillachevrolet.com/"
+website: https://www.wasillachevrolet.com/

@@ -1,11 +1,11 @@
 id: 394923015
-type: way
+type: node
 latitude: 64.85332
 longitude: -147.68752
 postcode: "99701"
 city: Fairbanks
-street: "Old Steese Highway"
-housenumber: 927
+street: Old Steese Highway
+housenumber: "927"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00"
-website: "https://www.mattressranch.com/mattress-ranch-locations/fairbanks"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; Su 11:00-17:00
+website: https://www.mattressranch.com/mattress-ranch-locations/fairbanks

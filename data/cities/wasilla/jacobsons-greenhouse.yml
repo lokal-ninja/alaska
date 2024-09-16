@@ -1,11 +1,11 @@
 id: 1051435569
-type: way
+type: node
 latitude: 61.58301
 longitude: -149.48227
 postcode: "99654"
 city: Wasilla
-street: "North Lucas Road"
-housenumber: 500
-phone: "(907) 376-2123"
-opening_hours: "Mo-Sa 09:00-18:00, Su 10:00-17:00"
-website: "http://www.jacobsonsgreenhouse.net/"
+street: North Lucas Road
+housenumber: "500"
+phone: (907) 376-2123
+opening_hours: Mo-Sa 09:00-18:00, Su 10:00-17:00
+website: http://www.jacobsonsgreenhouse.net/

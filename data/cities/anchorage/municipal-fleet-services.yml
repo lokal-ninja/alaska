@@ -1,11 +1,11 @@
 id: 653410290
-type: way
+type: node
 latitude: 61.18173
 longitude: -149.89207
 postcode: "99503"
 city: Anchorage
-street: "Bering Street"
-housenumber: 4333
+street: Bering Street
+housenumber: "4333"
 phone: ""
 opening_hours: ""
 website: ""

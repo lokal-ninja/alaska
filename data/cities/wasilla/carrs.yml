@@ -1,11 +1,11 @@
 id: 241583551
-type: way
+type: node
 latitude: 61.58247
 longitude: -149.43455
 postcode: "99654"
 city: Wasilla
-street: "East Parks Highway"
-housenumber: 595
+street: East Parks Highway
+housenumber: "595"
 phone: ""
-opening_hours: "24/7"
-website: "https://local.carrsqc.com/ak/wasilla/595-e-parks-hwy.html"
+opening_hours: 24/7
+website: https://local.carrsqc.com/ak/wasilla/595-e-parks-hwy.html

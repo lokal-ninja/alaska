@@ -1,11 +1,11 @@
 id: 379994782
-type: way
+type: node
 latitude: 61.58184
 longitude: -149.44745
 postcode: ""
 city: Wasilla
-street: "North Willow Street"
-housenumber: 280
+street: North Willow Street
+housenumber: "280"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 232411470
-type: way
+type: node
 latitude: 60.7767
 longitude: -148.68628
 postcode: "99693"
 city: Whittier
-street: "Harbor View Drive"
-housenumber: 1
+street: Harbor View Drive
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

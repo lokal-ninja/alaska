@@ -1,11 +1,11 @@
 id: 367107013
-type: way
+type: node
 latitude: 63.74571
 longitude: -148.89739
 postcode: "99755"
 city: Denali National Park
-street: "George Parks Highway"
-housenumber: 238.6
-phone: "800-604-5052"
+street: George Parks Highway
+housenumber: "238.6"
+phone: 800-604-5052
 opening_hours: ""
-website: "https://stampedeexcursions.com"
+website: https://stampedeexcursions.com

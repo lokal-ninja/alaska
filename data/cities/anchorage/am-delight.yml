@@ -1,11 +1,11 @@
 id: 589076086
-type: way
+type: node
 latitude: 61.18603
 longitude: -149.92165
 postcode: ""
 city: Anchorage
-street: "Spenard Road"
-housenumber: 3902
-phone: "+1 (907) 229-1730"
-opening_hours: "Mo-Sa 10:00-22:00, Su 12:00-22:00"
-website: "https://amdelightak.com/"
+street: Spenard Road
+housenumber: "3902"
+phone: +1 (907) 229-1730
+opening_hours: Mo-Sa 10:00-22:00, Su 12:00-22:00
+website: https://amdelightak.com/

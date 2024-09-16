@@ -1,11 +1,11 @@
 id: 662760223
-type: way
+type: node
 latitude: 61.21889
 longitude: -149.89689
 postcode: ""
 city: Anchorage
-street: "West 4th Street"
-housenumber: 735
+street: West 4th Street
+housenumber: "735"
 phone: ""
 opening_hours: ""
-website: "https://pakalolosupplyco.com/"
+website: https://pakalolosupplyco.com/

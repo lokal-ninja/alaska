@@ -1,11 +1,11 @@
 id: 931636321
-type: way
+type: node
 latitude: 61.59797
 longitude: -149.11588
 postcode: "99645"
 city: Palmer
-street: "South Colony Way"
-housenumber: 932
+street: South Colony Way
+housenumber: "932"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 256063201
-type: way
+type: node
 latitude: 61.21687
 longitude: -149.89857
 postcode: "99501"
 city: Anchorage
-street: "West 6th Avenue"
-housenumber: 817
-phone: "+1-907-279-6836"
+street: West 6th Avenue
+housenumber: "817"
+phone: +1-907-279-6836
 opening_hours: ""
-website: "http://m.anchorage.net/casual-dining/cafe-817-muffin-man-bakery"
+website: http://m.anchorage.net/casual-dining/cafe-817-muffin-man-bakery

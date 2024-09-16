@@ -1,11 +1,11 @@
 id: 389319957
-type: way
+type: node
 latitude: 61.58175
 longitude: -149.43905
 postcode: ""
 city: Wasilla
-street: "North Boundary Street"
-housenumber: 237
+street: North Boundary Street
+housenumber: "237"
 phone: ""
 opening_hours: ""
 website: ""

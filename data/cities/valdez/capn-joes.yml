@@ -1,11 +1,11 @@
 id: 515427542
-type: way
+type: node
 latitude: 61.13144
 longitude: -146.34814
 postcode: ""
 city: Valdez
-street: "East Pioneer Drive"
-housenumber: 131
+street: East Pioneer Drive
+housenumber: "131"
 phone: ""
 opening_hours: ""
 website: ""

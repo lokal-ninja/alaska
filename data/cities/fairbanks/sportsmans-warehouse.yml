@@ -1,11 +1,11 @@
 id: 392022984
-type: way
+type: node
 latitude: 64.85696
 longitude: -147.69897
 postcode: "99701"
 city: Fairbanks
-street: "Merhar Avenue"
-housenumber: 423
+street: Merhar Avenue
+housenumber: "423"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://stores.sportsmans.com/sportsmans-warehouse/us/ak/fairbanks/423-merhar-ave"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://stores.sportsmans.com/sportsmans-warehouse/us/ak/fairbanks/423-merhar-ave

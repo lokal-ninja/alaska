@@ -1,11 +1,11 @@
 id: 696798731
-type: way
+type: node
 latitude: 55.04718
 longitude: -162.29993
 postcode: "99612"
 city: King Cove
-street: "Slocum Drive"
-housenumber: 234
+street: Slocum Drive
+housenumber: "234"
 phone: ""
 opening_hours: ""
 website: ""

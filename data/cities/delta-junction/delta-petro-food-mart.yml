@@ -1,11 +1,11 @@
 id: 479370736
-type: way
+type: node
 latitude: 64.03074
 longitude: -145.73157
 postcode: ""
 city: Delta Junction
-street: "Richardson Highway"
-housenumber: 1229
+street: Richardson Highway
+housenumber: "1229"
 phone: ""
 opening_hours: ""
 website: ""

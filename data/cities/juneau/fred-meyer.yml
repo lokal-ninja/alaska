@@ -1,11 +1,11 @@
 id: 336469524
-type: way
+type: node
 latitude: 58.35979
 longitude: -134.56391
 postcode: "99801"
 city: Juneau
-street: "Glacier Highway"
-housenumber: 8181
-phone: "+1 907-789-6533"
-opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.fredmeyer.com/stores/grocery/ak/juneau/juneau/701/00158"
+street: Glacier Highway
+housenumber: "8181"
+phone: +1 907-789-6533
+opening_hours: Mo-Su 06:00-22:00
+website: https://www.fredmeyer.com/stores/grocery/ak/juneau/juneau/701/00158

@@ -1,11 +1,11 @@
 id: 954404531
-type: way
+type: node
 latitude: 61.60008
 longitude: -149.19648
 postcode: "99645"
 city: Palmer
-street: "East Palmer-Wasilla Highway"
-housenumber: 10201
-phone: "+1-907-746-0056"
-opening_hours: "Mo-Sa 09:00-19:00; Su 11:00-18:00"
+street: East Palmer-Wasilla Highway
+housenumber: "10201"
+phone: +1-907-746-0056
+opening_hours: Mo-Sa 09:00-19:00; Su 11:00-18:00
 website: ""

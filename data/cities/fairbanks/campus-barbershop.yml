@@ -4,8 +4,8 @@ latitude: 64.85723
 longitude: -147.8222
 postcode: "99775"
 city: Fairbanks
-street: "Tok Lane"
-housenumber: 1692
-phone: "+1-907-479-7491"
-opening_hours: "Mo-Fr 10:00-14:00,15:00-17:00"
-website: "https://uaf.edu/barbershop/"
+street: Tok Lane
+housenumber: "1692"
+phone: +1-907-479-7491
+opening_hours: Mo-Fr 10:00-14:00,15:00-17:00
+website: https://uaf.edu/barbershop/

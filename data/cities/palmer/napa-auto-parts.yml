@@ -1,11 +1,11 @@
 id: 1021852751
-type: way
+type: node
 latitude: 61.6001
 longitude: -149.23479
 postcode: "99645"
 city: Palmer
-street: "East Frontage Road"
-housenumber: 8591
+street: East Frontage Road
+housenumber: "8591"
 phone: ""
 opening_hours: ""
-website: "https://www.napaonline.com/stores/ak/palmer/8591-e-frontage-rd?sdref=header"
+website: https://www.napaonline.com/stores/ak/palmer/8591-e-frontage-rd?sdref=header

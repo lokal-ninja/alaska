@@ -1,11 +1,11 @@
 id: 632036625
-type: way
+type: node
 latitude: 61.60043
 longitude: -149.12616
 postcode: "99645"
 city: Palmer
-street: "West Evergreen Avenue"
-housenumber: 535
-phone: "+1 907-707-0400"
-opening_hours: "Mo-Su 07:00-23:00"
-website: "https://www.fredmeyer.com/stores/details/701/00649"
+street: West Evergreen Avenue
+housenumber: "535"
+phone: +1 907-707-0400
+opening_hours: Mo-Su 07:00-23:00
+website: https://www.fredmeyer.com/stores/details/701/00649

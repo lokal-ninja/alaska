@@ -4,8 +4,8 @@ latitude: 55.34193
 longitude: -131.64257
 postcode: "99901"
 city: Ketchikan
-street: "Stedman Street"
-housenumber: 105
+street: Stedman Street
+housenumber: "105"
 phone: ""
 opening_hours: ""
-website: "https://ketchikanbooks.com/"
+website: https://ketchikanbooks.com/

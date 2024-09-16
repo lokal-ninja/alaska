@@ -4,8 +4,8 @@ latitude: 61.19008
 longitude: -149.91025
 postcode: "99503"
 city: Anchorage
-street: "West 33rd Avenue"
-housenumber: 1406
+street: West 33rd Avenue
+housenumber: "1406"
 phone: ""
-opening_hours: "Tu,Th 18:00-20:00; We 17:00-21:00; Su 15:00-19:00"
-website: "https://www.offthechainak.org/wordpress/"
+opening_hours: Tu,Th 18:00-20:00; We 17:00-21:00; Su 15:00-19:00
+website: https://www.offthechainak.org/wordpress/

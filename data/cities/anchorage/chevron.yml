@@ -1,11 +1,11 @@
 id: 412821232
-type: way
+type: node
 latitude: 61.19482
 longitude: -149.77755
 postcode: "99504"
 city: Anchorage
-street: "Boniface Parkway"
-housenumber: 2801
-phone: "‭1-907-333-7800‬"
-opening_hours: "Mo-Su 05:00-01:00"
-website: "https://www.chevron.com/"
+street: Boniface Parkway
+housenumber: "2801"
+phone: ‭1-907-333-7800‬
+opening_hours: Mo-Su 05:00-01:00
+website: https://www.chevron.com/

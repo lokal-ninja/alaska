@@ -1,11 +1,11 @@
 id: 1292155539
-type: way
+type: node
 latitude: 64.8126
 longitude: -147.75547
 postcode: "99701"
 city: Fairbanks
-street: "Van Horn Road"
-housenumber: 1937
+street: Van Horn Road
+housenumber: "1937"
 phone: ""
 opening_hours: ""
 website: ""

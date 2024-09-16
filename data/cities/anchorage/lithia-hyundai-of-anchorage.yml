@@ -1,11 +1,11 @@
 id: 502764956
-type: way
+type: node
 latitude: 61.17203
 longitude: -149.87011
 postcode: "99518"
 city: Anchorage
-street: "Old Seward Highway"
-housenumber: 5400
-phone: "+1-907-202-9778"
-opening_hours: "Mo-Sa 09:00-21:00; Su 11:00-19:00"
-website: "https://www.lithiahyundaianchorage.com/"
+street: Old Seward Highway
+housenumber: "5400"
+phone: +1-907-202-9778
+opening_hours: Mo-Sa 09:00-21:00; Su 11:00-19:00
+website: https://www.lithiahyundaianchorage.com/

@@ -1,11 +1,11 @@
 id: 694843208
-type: way
+type: node
 latitude: 61.58257
 longitude: -149.43204
 postcode: ""
 city: Wasilla
-street: "East Westpoint Drive"
-housenumber: 745
+street: East Westpoint Drive
+housenumber: "745"
 phone: ""
 opening_hours: ""
 website: ""

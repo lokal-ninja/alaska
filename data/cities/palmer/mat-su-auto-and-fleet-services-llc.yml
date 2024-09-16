@@ -1,11 +1,11 @@
 id: 963863652
-type: way
+type: node
 latitude: 61.52855
 longitude: -149.00894
 postcode: "99645"
 city: Palmer
-street: "Butte Airman Road"
-housenumber: 17581
-phone: "(907)-746-0041"
-opening_hours: "Mo-Su 08:30-17:30"
-website: "https://www.matsuauto.com/"
+street: Butte Airman Road
+housenumber: "17581"
+phone: (907)-746-0041
+opening_hours: Mo-Su 08:30-17:30
+website: https://www.matsuauto.com/

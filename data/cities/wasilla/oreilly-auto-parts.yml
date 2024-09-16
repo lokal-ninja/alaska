@@ -1,11 +1,11 @@
 id: 389319959
-type: way
+type: node
 latitude: 61.58155
 longitude: -149.44602
 postcode: ""
 city: Wasilla
-street: "East Parks Highway"
-housenumber: 231
+street: East Parks Highway
+housenumber: "231"
 phone: ""
 opening_hours: ""
-website: "https://locations.oreillyauto.com/ak/wasilla/autoparts-3088.html"
+website: https://locations.oreillyauto.com/ak/wasilla/autoparts-3088.html

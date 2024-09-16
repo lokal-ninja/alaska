@@ -1,11 +1,11 @@
 id: 238681448
-type: way
+type: node
 latitude: 57.05297
 longitude: -135.33038
 postcode: "99835"
 city: Sitka
-street: "Baranof Street"
-housenumber: 210
+street: Baranof Street
+housenumber: "210"
 phone: ""
 opening_hours: ""
 website: ""

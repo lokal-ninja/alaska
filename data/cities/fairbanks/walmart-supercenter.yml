@@ -1,11 +1,11 @@
 id: 230793937
-type: way
+type: node
 latitude: 64.85579
 longitude: -147.6917
 postcode: "99701"
 city: Fairbanks
-street: "Johansen Expressway"
-housenumber: 537
-phone: "+1-907-451-9900"
-opening_hours: "Mo-Su 7:00-23:00"
-website: "https://www.walmart.com/store/2722/fairbanks-ak/whats-new"
+street: Johansen Expressway
+housenumber: "537"
+phone: +1-907-451-9900
+opening_hours: Mo-Su 7:00-23:00
+website: https://www.walmart.com/store/2722/fairbanks-ak/whats-new

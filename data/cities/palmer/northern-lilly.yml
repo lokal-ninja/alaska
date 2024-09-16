@@ -4,8 +4,8 @@ latitude: 61.59932
 longitude: -149.1149
 postcode: "99645"
 city: Palmer
-street: "South Colony Way"
-housenumber: 810
+street: South Colony Way
+housenumber: "810"
 phone: ""
-opening_hours: "Tu-Fr 11:00-17:30; Sa 11:00-16:00"
-website: "https://www.northernlilly.com/"
+opening_hours: Tu-Fr 11:00-17:30; Sa 11:00-16:00
+website: https://www.northernlilly.com/

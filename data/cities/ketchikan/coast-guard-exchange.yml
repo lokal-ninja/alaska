@@ -1,11 +1,11 @@
 id: 435795486
-type: way
+type: node
 latitude: 55.33289
 longitude: -131.62469
 postcode: "99901"
 city: Ketchikan
-street: "Stedman Street"
-housenumber: 1300
+street: Stedman Street
+housenumber: "1300"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 07:30-17:00; Sa 10:00-16:00
 website: ""

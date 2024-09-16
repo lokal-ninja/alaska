@@ -1,11 +1,11 @@
 id: 394923016
-type: way
+type: node
 latitude: 64.85243
 longitude: -147.68912
 postcode: "99701"
 city: Fairbanks
-street: "Old Steese Highway"
-housenumber: 903
+street: Old Steese Highway
+housenumber: "903"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 203194463
-type: way
+type: node
 latitude: 59.63734
 longitude: -151.51644
 postcode: "99603"
 city: Homer
-street: "Ocean Drive"
-housenumber: 1067
+street: Ocean Drive
+housenumber: "1067"
 phone: ""
 opening_hours: ""
 website: ""

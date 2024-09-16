@@ -1,11 +1,11 @@
 id: 238684102
-type: way
+type: node
 latitude: 57.04905
 longitude: -135.30774
 postcode: "99835"
 city: Sitka
-street: "Smith Street"
-housenumber: 104
+street: Smith Street
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

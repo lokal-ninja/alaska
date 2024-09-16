@@ -1,11 +1,11 @@
 id: 634050119
-type: way
+type: node
 latitude: 61.58213
 longitude: -149.42933
 postcode: ""
 city: Wasilla
-street: "North Crusey Street"
-housenumber: 101
+street: North Crusey Street
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

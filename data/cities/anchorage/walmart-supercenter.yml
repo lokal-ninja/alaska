@@ -1,11 +1,11 @@
 id: 303613027
-type: way
+type: node
 latitude: 61.14044
 longitude: -149.87132
 postcode: "99515"
 city: Anchorage
-street: "Old Seward Highway"
-housenumber: 8900
-phone: "+1-907-344-5300"
-opening_hours: "Mo-Su 06:00-24:00"
-website: "https://www.walmart.com/store/2071/anchorage-ak/whats-new"
+street: Old Seward Highway
+housenumber: "8900"
+phone: +1-907-344-5300
+opening_hours: Mo-Su 06:00-24:00
+website: https://www.walmart.com/store/2071/anchorage-ak/whats-new

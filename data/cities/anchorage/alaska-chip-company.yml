@@ -1,11 +1,11 @@
 id: 793940787
-type: way
+type: node
 latitude: 61.17096
 longitude: -149.88899
 postcode: "99518"
 city: anchorage
-street: "potter"
-housenumber: 355
+street: potter
+housenumber: "355"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1022097852
-type: way
+type: node
 latitude: 61.21633
 longitude: -149.74055
 postcode: "99504"
 city: Anchorage
-street: "Delaware Place"
-housenumber: 615
-phone: "1-907-310-6654"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 10:00-17:00"
+street: Delaware Place
+housenumber: "615"
+phone: 1-907-310-6654
+opening_hours: Mo-Fr 08:00-18:00; Sa 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 1067303963
-type: way
+type: node
 latitude: 58.38375
 longitude: -134.57868
 postcode: "99801"
 city: Juneau
-street: "Stephen Richards Memorial Drive"
-housenumber: 9951
-phone: "907.789.4637"
+street: Stephen Richards Memorial Drive
+housenumber: "9951"
+phone: 907.789.4637
 opening_hours: ""
 website: ""

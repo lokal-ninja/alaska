@@ -1,11 +1,11 @@
 id: 959682151
-type: way
+type: node
 latitude: 61.61186
 longitude: -149.11921
 postcode: "99645"
 city: Palmer
-street: "North Cobb Street"
-housenumber: 450
-phone: "907-745-3105"
-opening_hours: "Mo-Th 08:00-17:30; Fr 08:00-17:00"
-website: "http://metalcreekautobody.com/"
+street: North Cobb Street
+housenumber: "450"
+phone: 907-745-3105
+opening_hours: Mo-Th 08:00-17:30; Fr 08:00-17:00
+website: http://metalcreekautobody.com/

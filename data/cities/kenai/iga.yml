@@ -1,11 +1,11 @@
 id: 729729594
-type: way
+type: node
 latitude: 60.55777
 longitude: -151.25234
 postcode: "99611"
 city: Kenai
-street: "South Willow Street"
-housenumber: 140
-phone: "+1 906-486-4900"
+street: South Willow Street
+housenumber: "140"
+phone: +1 906-486-4900
 opening_hours: ""
 website: ""

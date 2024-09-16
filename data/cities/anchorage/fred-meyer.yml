@@ -1,11 +1,11 @@
 id: 182967300
-type: way
+type: node
 latitude: 61.2119
 longitude: -149.73824
 postcode: "99504"
 city: Anchorage
-street: "Debarr Road"
-housenumber: 7701
-phone: "+1 907-269-1756"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.fredmeyer.com/stores/grocery/ak/anchorage/muldoon/701/00018"
+street: Debarr Road
+housenumber: "7701"
+phone: +1 907-269-1756
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.fredmeyer.com/stores/grocery/ak/anchorage/muldoon/701/00018

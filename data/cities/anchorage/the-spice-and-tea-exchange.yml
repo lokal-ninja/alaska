@@ -1,11 +1,11 @@
 id: 1134627007
-type: way
+type: node
 latitude: 61.12164
 longitude: -149.86287
 postcode: "99515"
 city: Anchorage
-street: "O'Malley Centre Drive"
-housenumber: 10950
-phone: "1-907-222-4832"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-19:00; Su 10:00-18:00"
-website: "https://www.spiceandtea.com/spicestorepage/store/front/id/55"
+street: O'Malley Centre Drive
+housenumber: "10950"
+phone: 1-907-222-4832
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-19:00; Su 10:00-18:00
+website: https://www.spiceandtea.com/spicestorepage/store/front/id/55

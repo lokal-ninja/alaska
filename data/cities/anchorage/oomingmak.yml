@@ -1,11 +1,11 @@
 id: 256063204
-type: way
+type: node
 latitude: 61.21645
 longitude: -149.89803
 postcode: "99501"
 city: Anchorage
-street: "H Street"
-housenumber: 604
+street: H Street
+housenumber: "604"
 phone: ""
 opening_hours: ""
-website: "https://www.qiviut.com/"
+website: https://www.qiviut.com/

@@ -1,11 +1,11 @@
 id: 298003652
-type: way
+type: node
 latitude: 61.57614
 longitude: -149.39986
 postcode: "99654"
 city: Wasilla
-street: "East Parks Highway"
-housenumber: 1901
+street: East Parks Highway
+housenumber: "1901"
 phone: ""
 opening_hours: ""
 website: ""

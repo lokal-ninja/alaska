@@ -1,11 +1,11 @@
 id: 129385667
-type: way
+type: node
 latitude: 59.64355
 longitude: -151.53497
 postcode: "99603"
 city: Homer
-street: "Sterling Highway"
-housenumber: 90
-phone: "+1 907-226-1000"
-opening_hours: "05:00-24:00"
-website: "https://local.safeway.com/safeway/ak/homer/90-sterling-hwy.html"
+street: Sterling Highway
+housenumber: "90"
+phone: +1 907-226-1000
+opening_hours: 05:00-24:00
+website: https://local.safeway.com/safeway/ak/homer/90-sterling-hwy.html

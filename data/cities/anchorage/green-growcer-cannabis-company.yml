@@ -1,11 +1,11 @@
 id: 303744665
-type: way
+type: node
 latitude: 61.14514
 longitude: -149.87709
 postcode: "99515"
 city: Anchorage
-street: "East Dimond Boulevard"
-housenumber: 301
-phone: "+1 907-312-8420"
-opening_hours: "09:00-00:00"
-website: "https://www.akgreengrowcer.org/"
+street: East Dimond Boulevard
+housenumber: "301"
+phone: +1 907-312-8420
+opening_hours: 09:00-00:00
+website: https://www.akgreengrowcer.org/

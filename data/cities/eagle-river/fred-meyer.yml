@@ -1,11 +1,11 @@
 id: 243610991
-type: way
+type: node
 latitude: 61.34213
 longitude: -149.55643
 postcode: "99577"
 city: Eagle River
-street: "Old Glenn Highway"
-housenumber: 13401
-phone: "+1 907-689-4066"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://www.fredmeyer.com/stores/grocery/ak/eagle-river/eagle-river/701/00668"
+street: Old Glenn Highway
+housenumber: "13401"
+phone: +1 907-689-4066
+opening_hours: Mo-Su 07:00-22:00
+website: https://www.fredmeyer.com/stores/grocery/ak/eagle-river/eagle-river/701/00668

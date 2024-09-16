@@ -1,11 +1,11 @@
 id: 285248752
-type: way
+type: node
 latitude: 61.21743
 longitude: -149.89099
 postcode: "99501"
 city: Anchorage
-street: "West 4th Avenue"
-housenumber: 436
+street: West 4th Avenue
+housenumber: "436"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00; Su 12:00-17:00"
+opening_hours: Mo-Sa 10:00-18:00; Su 12:00-17:00
 website: ""

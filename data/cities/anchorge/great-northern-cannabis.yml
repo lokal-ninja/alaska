@@ -1,11 +1,11 @@
 id: 131302023
-type: way
+type: node
 latitude: 61.13865
 longitude: -149.91451
 postcode: ""
 city: Anchorge
-street: "West Dimond Boulevard"
-housenumber: 1901
+street: West Dimond Boulevard
+housenumber: "1901"
 phone: ""
 opening_hours: ""
 website: ""

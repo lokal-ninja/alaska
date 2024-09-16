@@ -1,11 +1,11 @@
 id: 928988487
-type: way
+type: node
 latitude: 61.58564
 longitude: -149.13104
 postcode: "99645"
 city: Palmer
-street: "Glenn Highway"
-housenumber: 1800
-phone: "855-277-2119"
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.edmondsimportauto.com/"
+street: Glenn Highway
+housenumber: "1800"
+phone: 855-277-2119
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.edmondsimportauto.com/

@@ -1,11 +1,11 @@
 id: 718227031
-type: way
+type: node
 latitude: 53.88517
 longitude: -166.5487
 postcode: "99692"
 city: Unalaska
-street: "Airport Beach Road"
-housenumber: 2029
-phone: "+1 907-581-4040"
-opening_hours: "Mo-Su 07:00-22:00"
-website: "https://local.safeway.com/safeway/ak/unalaska/2029-airport-beach-rd.html"
+street: Airport Beach Road
+housenumber: "2029"
+phone: +1 907-581-4040
+opening_hours: Mo-Su 07:00-22:00
+website: https://local.safeway.com/safeway/ak/unalaska/2029-airport-beach-rd.html

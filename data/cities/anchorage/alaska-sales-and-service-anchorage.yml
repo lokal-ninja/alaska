@@ -1,11 +1,11 @@
 id: 358562115
-type: way
+type: node
 latitude: 61.21736
 longitude: -149.85813
 postcode: "99501"
 city: Anchorage
-street: "East 5th Avenue"
-housenumber: 1300
+street: East 5th Avenue
+housenumber: "1300"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 953808703
-type: way
+type: node
 latitude: 61.58638
 longitude: -149.12673
 postcode: "99645"
 city: Palmer
-street: "Inner Springer Loop"
-housenumber: 97
-phone: "+1-907-746-7001"
-opening_hours: "Mo-Fr 07:00-18:00; Sat 08-17:00; Su 10:00-16:00"
-website: "https://www.sbsalaska.com/locations/palmer/"
+street: Inner Springer Loop
+housenumber: "97"
+phone: +1-907-746-7001
+opening_hours: Mo-Fr 07:00-18:00; Sat 08-17:00; Su 10:00-16:00
+website: https://www.sbsalaska.com/locations/palmer/

@@ -1,11 +1,11 @@
 id: 838386152
-type: way
+type: node
 latitude: 61.59966
 longitude: -149.11511
 postcode: "99645"
 city: Palmer
-street: "South Alaska Street"
-housenumber: 728
+street: South Alaska Street
+housenumber: "728"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 225528016
-type: way
+type: node
 latitude: 64.85956
 longitude: -147.69257
 postcode: "99701"
 city: Fairbanks
-street: "Harold Bentley Avenue"
-housenumber: 511
+street: Harold Bentley Avenue
+housenumber: "511"
 phone: ""
-opening_hours: "Mo-Fr 8:00-17:00"
+opening_hours: Mo-Fr 8:00-17:00
 website: ""

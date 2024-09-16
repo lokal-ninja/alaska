@@ -1,11 +1,11 @@
 id: 132188813
-type: way
+type: node
 latitude: 58.37153
 longitude: -134.59548
 postcode: "99801"
 city: Juneau
-street: "Vintage Boulevard"
-housenumber: 3033
-phone: "+1 907-523-2000"
+street: Vintage Boulevard
+housenumber: "3033"
+phone: +1 907-523-2000
 opening_hours: ""
-website: "https://local.safeway.com/safeway/ak/juneau/3033-vintage-blvd.html"
+website: https://local.safeway.com/safeway/ak/juneau/3033-vintage-blvd.html
