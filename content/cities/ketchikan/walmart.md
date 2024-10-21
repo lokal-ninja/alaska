@@ -1,5 +1,5 @@
 ---
 title: "Walmart"
 url: /ketchikan/walmart/
-shop: supermarket
+shop: department store
 ---
