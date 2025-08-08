@@ -2,5 +2,5 @@
 title: Cordova
 url: /cordova/
 latitude: 60.546
-longitude: -145.758
+longitude: -145.76
 ---

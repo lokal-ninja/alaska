@@ -6,8 +6,6 @@ postcode: "99574"
 city: Cordova
 street: 1st Street
 housenumber: "512"
-phone: 1-907-424-5219
-opening_hours: Monday 8 AM–9 PM  Tuesday 8 AM–9 PM  Wednesday 8 AM–9 PM  Thursday
-    (Thanksgiving) 8 AM–9 PM Hours might differ  Friday (Black Friday) 8 AM–9 PM
-    Hours might differ  Saturday 8 AM–9 PM  Sunday 8 AM–7 PM
+phone: +1 907-424-5219
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-19:00
 website: ""
