@@ -1,5 +1,5 @@
 ---
 title: "Fred Meyer"
-url: /anchorage/fred-meyer-debarr-road/
+url: /fairbanks/fred-meyer-airport-way/
 shop: supermarket
 ---
