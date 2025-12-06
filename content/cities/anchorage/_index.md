@@ -1,6 +1,6 @@
 ---
 title: Anchorage
 url: /anchorage/
-latitude: 61.177
-longitude: -149.867
+latitude: 61.175
+longitude: -149.866
 ---

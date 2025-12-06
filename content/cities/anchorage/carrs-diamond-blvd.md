@@ -1,5 +1,5 @@
 ---
 title: "Carrs"
-url: /anchorage/carrs-huffman-road/
+url: /anchorage/carrs-diamond-blvd/
 shop: supermarket
 ---
