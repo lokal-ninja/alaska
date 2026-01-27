@@ -1,6 +1,6 @@
 ---
 title: Bethel
 url: /bethel/
-latitude: 60.793
-longitude: -161.754
+latitude: 60.798
+longitude: -161.766
 ---
