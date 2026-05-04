@@ -1,6 +1,6 @@
 ---
 title: Ketchikan
 url: /ketchikan/
-latitude: 55.342
-longitude: -131.643
+latitude: 55.411
+longitude: -131.723
 ---
