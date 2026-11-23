@@ -1,6 +1,6 @@
 ---
 title: Point Hope
 url: /point-hope/
-latitude: 68.349
-longitude: -166.74
+latitude: 68.35
+longitude: -166.729
 ---

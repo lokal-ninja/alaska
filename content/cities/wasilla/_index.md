@@ -1,6 +1,6 @@
 ---
 title: Wasilla
 url: /wasilla/
-latitude: 61.574
-longitude: -149.402
+latitude: 61.583
+longitude: -149.464
 ---
